@@ -24,7 +24,10 @@
       Neste momento estou buscando fortificar e obter uma base sólida em:
     <ul>
       <li>
-        <a href="https://github.com/GAMELEIRA/html-css-js">HTML e CSS</a>
+        <div style="display: flex; align-items: center;">
+          <img style="width: 5%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+          <a href="https://github.com/GAMELEIRA/html-css-js">HTML e CSS</a>
+        </div>
       </li>
       <li>
         <a href="https://github.com/GAMELEIRA/javascript">Javascript</a>
