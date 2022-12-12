@@ -1,7 +1,7 @@
 
 
 <body>
-  <img align="right" width="250px" style="margin-top:-20px" src="./images/ReadyPlayerMe-Avatar.jpeg">
+  <img align="right" width="250px" style="margin-top:-20px" src="./images/meu-avatar.png">
   <header>
     <h1>Olá, seja bem-vindo ao meu perfil!</h1>
   </header>
