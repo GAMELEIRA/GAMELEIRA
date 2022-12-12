@@ -13,8 +13,10 @@
   </header>
   <main>
     <p>
-      Olá, seja bem-vindo ao meu perfil.
-      Neste momento você não verá nenhum projeto profissional desenvolvido no meu perfil. Todos os repositórios públicos
+      Olá, seja bem-vindo ao meu perfil!
+      <br>
+      <strong>Neste momento você não verá nenhum projeto profissional desenvolvido ou amador no meu perfil.</strong>
+      Todos os repositórios públicos
       no meu perfil até o
       momento são repositórios de estudos.
     </p>
