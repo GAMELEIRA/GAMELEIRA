@@ -22,13 +22,13 @@
     </p>
     <p>
       Neste momento estou buscando fortificar e obter uma base sólida em:
-    <ul>
+    <ul style="display: flex; align-items: center;">
       <li>
-        <img style="width:5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+        <img style="width:20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
         <a href="https://github.com/GAMELEIRA/html-css-js">HTML</a>
       </li>
       <li>
-        <img style="width:5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+        <img style="width:20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
         <a href="https://github.com/GAMELEIRA/html-css">CSS</a>
       </li>
       <li>
@@ -36,11 +36,11 @@
         <a href="https://github.com/GAMELEIRA/javascript">Javascript</a>
       </li>
       <li>
-        <img style="width:5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+        <img style="width:20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
         <a href="https://github.com/GAMELEIRA/typescript">Typescript</a>
       </li>
       <li>
-        <img style="width: 5%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+        <img style="width:20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
         <a href="https://github.com/GAMELEIRA/angular">Angular</a>
       </li>
     </ul>
