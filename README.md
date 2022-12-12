@@ -20,13 +20,20 @@
     </p>
     <p>
       Neste momento estou buscando fortificar e obter uma base sólida em:
-      <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>Javascript</li>
-        <li>Typescript/li>
-        <li>Angular</li>
-      </ul>
+    <ul>
+      <li>
+        <a href="https://github.com/GAMELEIRA/html-css-js">HTML e CSS</a>
+      </li>
+      <li>
+        <a href="https://github.com/GAMELEIRA/javascript">Javascript</a>
+      </li>
+      <li>
+        <a href="https://github.com/GAMELEIRA/typescript">Typescript</a>
+      </li>
+      <li>
+        <a href="https://github.com/GAMELEIRA/angular">Angular</a>
+      </li>
+    </ul>
     </p>
   </main>
 </body>
