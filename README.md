@@ -47,7 +47,7 @@
       </p>
     </section>
     <section>
-      <h2>Estatisticas</h2>
+      <h2>Estatisticas:</h2>
       <div>
         <a href="https://github.com/GAMELEIRA">
           <img height="180em"
