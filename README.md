@@ -1,2 +1,2 @@
-<h1>Tudo sobre o Gabriel Dev</h1>
+<h1>Gabriel Dev</h1>
 
