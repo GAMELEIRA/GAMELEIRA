@@ -43,6 +43,9 @@
         </li>
       </ul>
       </p>
+      <p>
+        Decidi deixar os repositórios dedicados por estudo para que seja mais fácil identificar os projetos utilizados para aprender a linguagem ou framework. Dessa forma você pode analisar melhor quais projetos foram utilizados para criar o conhecimento base. 
+      </p>
     </section>
     <section>
       <h2>Estatisticas:</h2>
