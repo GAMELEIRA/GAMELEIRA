@@ -28,15 +28,15 @@
         <a href="https://github.com/GAMELEIRA/html-css-js">HTML</a>
       </li>
       <li>
-        <img style="width: 5%;" src="https://cdn.jsdelivr.net/gh">
+        <img style="width:5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
         <a href="https://github.com/GAMELEIRA/html-css">CSS</a>
       </li>
       <li>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+        <img style="width:5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
         <a href="https://github.com/GAMELEIRA/javascript">Javascript</a>
       </li>
       <li>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+        <img style="width:5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
         <a href="https://github.com/GAMELEIRA/typescript">Typescript</a>
       </li>
       <li>
