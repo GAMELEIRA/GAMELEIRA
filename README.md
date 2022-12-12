@@ -16,7 +16,9 @@
         momento são repositórios de estudos.
       </p>
       <p>
-        Neste momento estou buscando fortificar e obter uma base sólida em:
+        Neste momento estou buscando fortificar e obter uma base sólida.
+        Segue os links para os meus repositórios separados por tecnologia:
+      </p>
       <ul>
         <li>
           <img style="width:5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
