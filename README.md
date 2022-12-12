@@ -5,11 +5,6 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    	body {
-		font-family: Arial;
-	}
-  </style>
 </head>
 
 <body>
@@ -29,10 +24,10 @@
       Neste momento estou buscando fortificar e obter uma base sólida em:
     <ul>
       <li>
-        <div style="display: flex; align-items: center;">
-          <img style="width: 5%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-          <a href="https://github.com/GAMELEIRA/html-css-js">HTML e CSS</a>
-        </div>
+        <img style="width: 5%;"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+        <br>
+        <a href="https://github.com/GAMELEIRA/html-css-js">HTML e CSS</a>
       </li>
       <li>
         <a href="https://github.com/GAMELEIRA/javascript">Javascript</a>
