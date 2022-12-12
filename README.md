@@ -1,7 +1,7 @@
 
 
 <body>
-  <img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/H2Vnn9B/photo-2021-12-23-11-04-10-removebg-preview.png">
+  <img align="right" width="250px" style="margin-top:-20px" src="https://readyplayer.me/gallery/6246598dcc9780a069626b09-7JFcadjpeg">
   <header>
     <h1>Olá, seja bem-vindo ao meu perfil!</h1>
   </header>
