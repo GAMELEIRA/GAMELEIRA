@@ -5,7 +5,9 @@
   </header>
   <main>
     <section>
-      <h2>Portfólio:</h2>
+      <h2>
+        <a href="https://gameleira.github.io/portfolio/">Portfólio:</a>
+       </h2>
       <p>
         Me chamo Gabriel Gameleira dos Santos, tenho 23 anos e desenvolvedor Front-End Mobile na
         <i><strong>TOTVS</strong></i>.
