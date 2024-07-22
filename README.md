@@ -1,5 +1,5 @@
 <body>
-  <img align="right" width="300px" style="margin-top:-20px" src="./images/meu-avatar.png">
+  <img align="right" width="300px" style="margin-top:-20px">
   <header>
     <h1>Olá, seja bem-vindo ao meu perfil!</h1>
   </header>
