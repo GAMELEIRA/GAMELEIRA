@@ -15,4 +15,4 @@ Olá seja, bem vindo(a) ao meu perfil!
 ![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GAMELEIRA&size_weight=0.5&count_weight=0.5&langs_count=20)
 
 # Esforço Investido
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GAMELEIRA)]
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GAMELEIRA)
