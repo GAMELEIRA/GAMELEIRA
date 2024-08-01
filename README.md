@@ -8,6 +8,10 @@ Olá seja, bem vindo(a) ao meu perfil!
 
 # Principais Projetos
 
+<a href="https://github.com/GAMELEIRA/estudos-frontend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAMELEIRA&repo=estudos-frontend&theme=default&show_icons=true" />
+</a>
+
 <a href="https://github.com/GAMELEIRA/estudos-backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAMELEIRA&repo=estudos-backend&theme=default&show_icons=true" />
 </a>
