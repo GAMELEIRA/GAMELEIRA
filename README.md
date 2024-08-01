@@ -8,10 +8,10 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 * **Status Cívil**: Muito bem casado com [@CibeleGameleira](https://github.com/CibeleGameleira);
 * **Natural de**: Osasco, SP - Brasil;
 * **Morando em**: São Paulo (Sampa meu), SP - Brasil;
-* **Estudando sempre as Tecnologias**: HTML, CSS, Javascript, Angular, Ionic;
-* **Estudando Conceitos**: Devops, POO, Código Limpo, Testes Unitários, Testes Integrados, Arquitetura Hexagonal e DDD;
-* **Graduado**: Analise e Desenvolvimento de Sistemas na [@Bandtec](https://github.com/BandTec);
-* **Passatempos**: Jogo Tênis de Mesa e atualmente Bob Construtor no _Minecraft_. Gosto de jogar FIFA, Smash Bros, Alex Kid, Sonic, Crash Bandicoot etc. Colocaria que assisto jogos do Corinthians mas isso não é mais um prazer;
+* **Estudando Sempre as Tecnologias**: _HTML_, _CSS_, _Javascript_, _Angular_, _Ionic_;
+* **Estudando Sempre os Conceitos**: _Devops_, _POO_, Código Limpo, Testes Unitários, Testes Integrados, Arquitetura Hexagonal e _DDD_;
+* **Graduado em**: Análise e Desenvolvimento de Sistemas na [@Bandtec](https://github.com/BandTec);
+* **Passatempos**: Jogo Tênis de Mesa e atualmente Bob Construtor no _Minecraft_. Gosto de jogar FIFA, Smash Bros, Alex Kid, Sonic, Crash Bandicoot etc. Torço e assisto jogos do Corinthians mas isso não é mais um prazer;
 * **Trabalhando Atualmente**: Desenvolvedor de Software Mobile e Web na TOTVS - Squad Entradas;
 
 # Sumário
