@@ -4,14 +4,15 @@ Olá seja, bem vindo(a) ao meu perfil!
 
 Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome então pode me chamar de **Gameleira**. 
 
-* **Idade**: 25
-* **Status Cívil**: Muito bem casado com [@CibeleGameleira](https://github.com/CibeleGameleira)
-* **Natural de**: Osasco SP, Brasil
-* **Estudando as Tecnologias**: HTML, CSS, Javascript, Angular, Ionic.
-* **Estudando Conceitos**: POO, Código Limpo, Testes Unitários, Testes Integrados, Arquitetura Hexagonal e DDD. 
-* **Graduado**: Analise e Desenvolvimento de Sistemas na Bandtec.
-* **Passatempos**: Jogo Tênis de Mesa e atualmente Bob Construtor no _Minecraft_. Gosto de jogar FIFA, Smash Bros, Alex Kid, Sonic, Crash Bandicoot etc. Colocaria que assisto jogos do Corinthians então isso não é mais um lazer. 
-* **Trabalhando Atualmente**: TOTVS - Squad Entradas
+* **Idade**: 25;
+* **Status Cívil**: Muito bem casado com [@CibeleGameleira](https://github.com/CibeleGameleira);
+* **Natural de**: Osasco, SP - Brasil;
+* **Morando em**: São Paulo (Sampa meu), SP - Brasil;
+* **Estudando sempre as Tecnologias**: HTML, CSS, Javascript, Angular, Ionic;
+* **Estudando Conceitos**: Devops, POO, Código Limpo, Testes Unitários, Testes Integrados, Arquitetura Hexagonal e DDD;
+* **Graduado**: Analise e Desenvolvimento de Sistemas na [@Bandtec](https://github.com/BandTec);
+* **Passatempos**: Jogo Tênis de Mesa e atualmente Bob Construtor no _Minecraft_. Gosto de jogar FIFA, Smash Bros, Alex Kid, Sonic, Crash Bandicoot etc. Colocaria que assisto jogos do Corinthians mas isso não é mais um prazer;
+* **Trabalhando Atualmente**: Desenvolvedor de Software Mobile e Web na TOTVS - Squad Entradas;
 
 # Sumário
 
