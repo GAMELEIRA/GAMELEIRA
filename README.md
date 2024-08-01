@@ -2,7 +2,7 @@
 
 Olá seja, bem vindo(a) ao meu perfil!
 
-Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome então pode me chamar de **Gameleira**. 
+Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome então pode me chamar de **Gameleira**. Estou trabalhando com tecnologia desde de 2019 e com desenvolvimento de Software Mobile desde 2020.
 
 * **Idade**: 25;
 * **Status Cívil**: Muito bem casado com [@CibeleGameleira](https://github.com/CibeleGameleira);
@@ -11,7 +11,7 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 * **Estudando Sempre as Tecnologias**: _HTML_, _CSS_, _Javascript_, _Angular_, _Ionic_;
 * **Estudando Sempre os Conceitos**: _Devops_, _POO_, Código Limpo, Testes Unitários, Testes Integrados, Arquitetura Hexagonal e _DDD_;
 * **Graduado em**: Análise e Desenvolvimento de Sistemas na [@Bandtec](https://github.com/BandTec);
-* **Passatempos**: Jogo Tênis de Mesa e atualmente Bob Construtor no _Minecraft_. Gosto de jogar _FIFA_, _Smash Bros_, _Alex Kid_, _Sonic_, _Crash Bandicoot_ etc. Torço e assisto jogos do Corinthians mas isso não é mais um prazer;
+* **Passatempos**: Jogo Tênis de Mesa e atualmente sou Bob Construtor no _Minecraft_. Gosto de jogar _FIFA_, _Smash Bros_, _Alex Kid_, _Sonic_, _Crash Bandicoot_ etc. Torço e assisto jogos do Corinthians mas isso não é mais um prazer;
 * **Trabalhando Atualmente**: Desenvolvedor de Software Mobile e Web na ***TOTVS*** - _Squad_ Entradas;
 
 # Sumário
