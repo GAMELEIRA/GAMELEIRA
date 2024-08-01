@@ -4,10 +4,10 @@ Olá seja, bem vindo(a) ao meu perfil!
 
 # Sumário
 
-1. [Estátisticas](#estátisticas)
-2. [Principais Projetos](#principais-projetos)
-3. [Principais Linguagens](#principais-linguagens)
-4. [Esforço Investido](#esforço-investido)
+1. **[Estátisticas](#estátisticas)**
+2. **[Principais Projetos](#principais-projetos)**
+3. **[Principais Linguagens](#principais-linguagens)**
+4. **[Esforço Investido](#esforço-investido)**
 
 # Estátisticas
 
