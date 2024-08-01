@@ -32,7 +32,7 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: Gameleira/estudos-frontend@main
         with:
           WAKATIME_API_KEY: ${{ waka_7c1ca282-4fac-4d0c-a957-66c1ed820de9 }}
           GH_TOKEN: ${{ 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 }}
