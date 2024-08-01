@@ -11,4 +11,4 @@ Olá seja, bem vindo(a) ao meu perfil!
 [![Estudos Linguagens de Programação](https://github-readme-stats.vercel.app/api/pin/?username=GAMELEIRA&repo=estudos-linguagens-programacao&theme=default&show_icons=true&show_owner=true&locale=pt-br)](https://github.com/GAMELEIRA/estudos-linguagens-programacao)
 
 # Principais Linguagens
-![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&locale=pt-br)
+![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GAMELEIRA&size_weight=0.5&count_weight=0.5&locale=pt-br&langs_count=20)
