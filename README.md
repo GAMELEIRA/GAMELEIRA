@@ -2,6 +2,16 @@
 
 Olá seja, bem vindo(a) ao meu perfil!
 
+Me chamo Gabriel Gameleira dos Santos, geralmente me chamam pelo sobrenome então pode me chamar de Gameleira. 
+
+* Idade: 25
+* Natural de: Osasco SP, Brasil
+* Estudando as Tecnologias: HTML, CSS, Javascript, Angular, Ionic.
+* Estudando Conceitos: POO, Código Limpo, Testes Unitários, Testes Integrados, Arquitetura Hexagonal e DDD. 
+* Graduado: Analise e Desenvolvimento de Sistemas na Bandtec.
+* Passatempos: Jogo Tênis de Mesa
+* Trabalhando Atualmente: TOTVS - Squad Entradas
+
 # Sumário
 
 1. **[Estátisticas](#estátisticas)**
