@@ -9,16 +9,16 @@ Olá seja, bem vindo(a) ao meu perfil!
 # Principais Projetos
 
 <div>
-<a href="https://github.com/GAMELEIRA/estudos-frontend"  style="margin: 8px">
+<a href="https://github.com/GAMELEIRA/estudos-frontend"  style="margin: 8px; padding: 8px">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAMELEIRA&repo=estudos-frontend&theme=default&show_icons=true" />
 </a>
 
-<a href="https://github.com/GAMELEIRA/estudos-backend" style="margin: 8px">
+<a href="https://github.com/GAMELEIRA/estudos-backend" style="margin: 8px; padding: 8px">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAMELEIRA&repo=estudos-backend&theme=default&show_icons=true" />
 </a>
     
-<a href="https://github.com/GAMELEIRA/estudos-linguagens-programacao" style="margin: 8px">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAMELEIRA&repo=estudos-linguagens-programacao&theme=default&show_icons=true" />
+<a href="https://github.com/GAMELEIRA/estudos-linguagens-programacao">
+<img style="margin: 8px; padding: 8px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAMELEIRA&repo=estudos-linguagens-programacao&theme=default&show_icons=true" />
 </a>
 </div>
 
