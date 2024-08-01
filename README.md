@@ -18,23 +18,3 @@ Olá seja, bem vindo(a) ao meu perfil!
 [![wakatime](https://wakatime.com/badge/user/be66342b-230a-4515-9f8d-6b91951a9171.svg)](https://wakatime.com/@be66342b-230a-4515-9f8d-6b91951a9171)
 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gameleira)
-
-<!--START_SECTION:waka-->
-name: Waka Readme
-
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Gameleira/estudos-frontend@main
-        with:
-          WAKATIME_API_KEY: ${{ waka_7c1ca282-4fac-4d0c-a957-66c1ed820de9 }}
-          GH_TOKEN: ${{ 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 }}
-
-<!--END_SECTION:waka-->
