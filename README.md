@@ -58,7 +58,7 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 
 <div align="center">
 
-![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GAMELEIRA&size_weight=0.5&count_weight=0.5&langs_count=20)
+![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GAMELEIRA&size_weight=0.5&count_weight=0.5&langs_count=20&locale=pt-br&custom_title=Tecnologias%20Aprendidas)
 
 </div>
 
