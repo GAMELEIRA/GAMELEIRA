@@ -79,7 +79,7 @@ Como desenvolvedor _Frontend_ procuro ter foco em estudar as principais tecnolog
 # Principais Projetos
 
 > [!IMPORTANT]
-> Meu Git Hub ficou abandonado por muito tempo... e excluí alguns repositórios que viraram lixo ao longo do tempo. Meu PDI é que eu consiga construir um portfólio sólido para os próximos meses.
+> Meu _Git Hub_ ficou abandonado por muito tempo... e excluí muitos repositórios que viraram lixo ao longo do tempo. Meu PDI é que eu consiga construir um portfólio sólido para os próximos meses.
 
 <div align="center">
 <a href="https://github.com/GAMELEIRA/estudos-frontend" >
