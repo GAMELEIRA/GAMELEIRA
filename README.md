@@ -32,8 +32,6 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
      style="display: inline; width: 70%">
 </div>
 
-<img src="https://wakatime.com/share/@Gameleira/a12ccca0-dabc-4cdc-a796-7892a7d465d4.svg" height="400px">
-
 # Principais Projetos
 
 <div>
