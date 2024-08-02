@@ -35,7 +35,7 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 
 # Principais Projetos
 
-<div>
+<div align="center">
 <a href="https://github.com/GAMELEIRA/estudos-frontend" >
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAMELEIRA&repo=estudos-frontend&theme=default&show_icons=true" />
 </a>
