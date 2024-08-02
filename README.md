@@ -87,7 +87,7 @@ A seguir você terá uma visão mais detalhada da porcentagem de cada linguagem 
 > **estudos-frontend**, **estudos-backend**, **estudos-linguagens-programacao** são repositórios com o objetivo de servir como centralizadores de todo conhecimento e estudos que faço para aprender qualquer coisa relacionada ao tema. Fiz dessa forma para que seja mais fácil de eu usar esses repositórios como documentação de aprendizados e ser mais simples de mostrar meu esforço.
 
 > [!IMPORTANT]
-> * **portifolio** é um repositório com o objetivo de alocar uma landpage sobre a minha carreira, curiosidades etc. Ela é feita com HTML, CSS e JS sem o uso de frameworks como Angular ou React. 
+> **portifolio** é um repositório com o objetivo de alocar uma landpage sobre a minha carreira, curiosidades etc. Ela é feita com _HTML_, _CSS_ e _JS_ sem o uso de frameworks como _Angular_ ou _React_, ou de alguma biblioteca ou frame de UI como _PO-UI_, _Material Design_ ou _Bootstrap_.  
 
 <div align="center">
 <a href="https://github.com/GAMELEIRA/estudos-frontend" >
