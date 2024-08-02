@@ -21,8 +21,7 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 
 1. **[Estátisticas](#estátisticas)**
 2. **[Principais Projetos](#principais-projetos)**
-3. **[Principais Linguagens](#principais-linguagens)**
-4. **[Minhas Redes Sociais](#minhas-redes-sociais)**
+3. **[Minhas Redes Sociais](#minhas-redes-sociais)**
 
 # Estátisticas
 
@@ -31,6 +30,10 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gameleira&custom_title=Tempo%20Investido%20por%20Linguagem&locale=pt-br" alt="Gameleira WakaTime Stats" width="70%">
+</div>
+
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAMELEIRA&size_weight=0.5&count_weight=0.5&langs_count=20&locale=pt-br&custom_title=Principais%20Linguagens" alt="Gameleira WakaTime Stats" width="70%">
 </div>
 
 # Principais Projetos
@@ -51,14 +54,6 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 <a href="https://github.com/GAMELEIRA/portfolio">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAMELEIRA&repo=portfolio&theme=default&show_icons=true" alt="Card do repositório Portifólio">
 </a>
-
-</div>
-
-# Principais Linguagens
-
-<div align="center">
-
-![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GAMELEIRA&size_weight=0.5&count_weight=0.5&langs_count=20&locale=pt-br&custom_title=Tecnologias%20Aprendidas)
 
 </div>
 
