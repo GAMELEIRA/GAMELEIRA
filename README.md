@@ -25,7 +25,7 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 # Sumário
 
 1. **[Minhas Habilidades](#minhas-habilidades)**
-2. **[Principais Linguagens](#principais-linguagens)**
+2. **[Conhecimento Prático](#conhecimento-prático)**
 3. **[Estátisticas](#estátisticas)**
 4. **[Principais Projetos](#principais-projetos)**
 5. **[Minhas Redes Sociais e Contatos](#minhas-redes-sociais-e-contatos)**
@@ -57,11 +57,11 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 ![MacOs](https://img.shields.io/badge/macos-black?logo=macos) ![Ubuntu](https://img.shields.io/badge/linux-black?logo=linux) ![Windows](https://img.shields.io/badge/windows-black?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iLTAuNSAwIDI1NyAyNTciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQiPjxwYXRoIGQ9Ik0wIDM2LjM1N0wxMDQuNjIgMjIuMTFsLjA0NSAxMDAuOTE0LTEwNC41Ny41OTVMMCAzNi4zNTh6bTEwNC41NyA5OC4yOTNsLjA4IDEwMS4wMDJMLjA4MSAyMjEuMjc1bC0uMDA2LTg3LjMwMiAxMDQuNDk0LjY3N3ptMTIuNjgyLTExNC40MDVMMjU1Ljk2OCAwdjEyMS43NGwtMTM4LjcxNiAxLjFWMjAuMjQ2ek0yNTYgMTM1LjZsLS4wMzMgMTIxLjE5MS0xMzguNzE2LTE5LjU3OC0uMTk0LTEwMS44NEwyNTYgMTM1LjZ6IiBmaWxsPSIjMDBBREVGIi8+PC9zdmc+)
 
 
-# Principais Linguagens
+# Conhecimento Prático
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAMELEIRA&size_weight=0.5&count_weight=0.5&langs_count=20&locale=pt-br&custom_title=Conhecimento%20Prático" alt="Gameleira GitHub Stats" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAMELEIRA&size_weight=0.5&count_weight=0.5&langs_count=20&locale=pt-br&custom_title=Principais%20Linguagens" alt="Gameleira GitHub Stats" width="50%">
 
 </div>
 
