@@ -28,9 +28,7 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 # Minhas Habilidades
 
 **Principais Linguagens e Frameworks**
-
-<img src="https://img.shields.io/badge/html-black?logo=html5" alt="Badge HTML5"> <img src="https://img.shields.io/badge/css-black?logo=css3" alt="Badge CSS3"> <img src="https://img.shields.io/badge/javascript-black?logo=javascript" alt="Badge Javascript"> ![TypeScript](https://img.shields.io/badge/typescript-black?logo=typescript) <img src="https://img.shields.io/badge/angular-black?logo=angular" alt="Badge Angular"> <img src="https://img.shields.io/badge/ionic-black?logo=ionic" alt="Badge Ionic"> 
-
+![HTML](https://img.shields.io/badge/html-black?logo=html5) ![CSS](https://img.shields.io/badge/css-black?logo=css3) ![JavaScript](https://img.shields.io/badge/javascript-black?logo=javascript) ![Angular](https://img.shields.io/badge/angular-black?logo=angular) ![Ionic](https://img.shields.io/badge/ionic-black?logo=ionic) ![TypeScript](https://img.shields.io/badge/typescript-black?logo=typescript) 
 
 **Ferramentas de Desenvolvimento**
 
