@@ -28,9 +28,7 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 
 ![Gameleira GitHub stats](https://github-readme-stats.vercel.app/api?username=GAMELEIRA&show_icons=true&theme=default)
 
-[![wakatime](https://wakatime.com/badge/user/be66342b-230a-4515-9f8d-6b91951a9171.svg)](https://wakatime.com/@be66342b-230a-4515-9f8d-6b91951a9171)
-
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gameleira)
+![Gameleira WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gameleira)
 
 <img src="https://wakatime.com/share/@Gameleira/a12ccca0-dabc-4cdc-a796-7892a7d465d4.svg" height="400px">
 
