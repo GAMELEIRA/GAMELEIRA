@@ -24,7 +24,7 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 2. **[Principais Linguagens](#principais-linguagens)**
 3. **[Estátisticas](#estátisticas)**
 4. **[Principais Projetos](#principais-projetos)**
-5. **[Minhas Redes Sociais](#minhas-redes-sociais)**
+5. **[Minhas Redes Sociais e Contatos](#minhas-redes-sociais-e-contatos)**
 
 # Minhas Habilidades
 
@@ -90,7 +90,7 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 
 </div>
 
-# Minhas Redes Sociais
+# Minhas Redes Sociais e Contatos
 
 <div align="center">
 <a href="https://www.linkedin.com/in/gabriel-gameleira-dos-santos-634b23161/" style="color: #FFFFFF;
