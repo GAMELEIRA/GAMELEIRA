@@ -49,4 +49,8 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 
 [![wakatime](https://wakatime.com/badge/user/be66342b-230a-4515-9f8d-6b91951a9171.svg)](https://wakatime.com/@be66342b-230a-4515-9f8d-6b91951a9171)
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gameleira)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GAMELEIRA)
+
+<figure><embed src="https://wakatime.com/share/@Gameleira/a12ccca0-dabc-4cdc-a796-7892a7d465d4.svg"></embed></figure>
+
+# Redes Sociais
