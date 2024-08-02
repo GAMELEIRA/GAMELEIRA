@@ -61,6 +61,8 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 
 Como desenvolvedor _Frontend_ procuro ter foco em estudar as principais tecnologias e as mais modernas para poder criar soluções eficientes.
 
+A seguir você terá uma visão mais detalhada da porcentagem de cada linguagem que investo mais tempo para aprender e praticar.
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAMELEIRA&size_weight=0.5&count_weight=0.5&langs_count=20&locale=pt-br&custom_title=Principais%20Linguagens" alt="Gameleira GitHub Stats" width="50%">
