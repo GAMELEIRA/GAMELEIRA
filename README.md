@@ -83,20 +83,11 @@ A seguir você terá uma visão mais detalhada da porcentagem de cada linguagem 
 > [!IMPORTANT]
 > Meu _Git Hub_ ficou abandonado por muito tempo... e excluí muitos repositórios que viraram lixo ao longo do tempo. Meu PDI é que eu consiga construir um portfólio sólido para os próximos meses.
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
+> [!IMPORTANT]
+> **estudos-frontend**, **estudos-backend**, **estudos-linguagens-programacao** são repositórios com o objetivo de servir como centralizadores de todo conhecimento e estudos que faço para aprender qualquer coisa relacionada ao tema. Fiz dessa forma para que seja mais fácil de eu usar esses repositórios como documentação de aprendizados e ser mais simples de mostrar meu esforço.
 
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+> * **portifolio** é um repositório com o objetivo de alocar uma landpage sobre a minha carreira, curiosidades etc. Ela é feita com HTML, CSS e JS sem o uso de frameworks como Angular ou React. 
 
 <div align="center">
 <a href="https://github.com/GAMELEIRA/estudos-frontend" >
@@ -114,28 +105,6 @@ A seguir você terá uma visão mais detalhada da porcentagem de cada linguagem 
 <a href="https://github.com/GAMELEIRA/portfolio">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAMELEIRA&repo=portfolio&theme=default&show_icons=true" alt="Card do repositório Portifólio">
 </a>
-
-> [!TIP]
-> Fiz dessa forma para que seja mais fácil de eu usar esses repositórios como documentação de aprendizados e ser mais simples de mostrar meu esforço.
-
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
-
-**estudos-frontend**, **estudos-backend**, **estudos-linguagens-programacao** são repositórios com o objetivo de servir como centralizadores de todo conhecimento e estudos que faço para aprender qualquer coisa relacionada ao tema.
-
-* **portifolio** são repositórios com o objetivo de alocar uma landpage sobre a minha carreira, curiosidades etc. Ela é feita com HTML, CSS e JS sem o uso de frameworks como Angular ou React. 
 
 </div>
 
