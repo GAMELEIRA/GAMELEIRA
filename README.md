@@ -22,7 +22,7 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 1. **[Estátisticas](#estátisticas)**
 2. **[Principais Projetos](#principais-projetos)**
 3. **[Principais Linguagens](#principais-linguagens)**
-4. **[Redes Sociais](#redes-sociais)**
+4. **[Minhas Redes Sociais](#redes-sociais)**
 
 # Estátisticas
 
@@ -52,6 +52,6 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 
 ![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GAMELEIRA&size_weight=0.5&count_weight=0.5&langs_count=20)
 
-# Redes Sociais
+# Minhas Redes Sociais
 
 [![Linkedin](https://img.shields.io/badge/linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/gabriel-gameleira-dos-santos-634b23161/) [![Instagram](https://img.shields.io/badge/instagram-black?logo=instagram)](https://www.instagram.com/gamisgamis27/) [![Youtube](https://img.shields.io/badge/youtube-red?logo=youtube)](https://www.youtube.com/@gabrielgameleiradossantos6435)
