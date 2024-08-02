@@ -34,15 +34,15 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 
 **Ferramentas de Desenvolvimento**
 
-![Android Studio](https://img.shields.io/badge/android%20studio-black?logo=androidstudio) ![X-code](https://img.shields.io/badge/android%20studio-black?logo=xcode) ![Insominia](https://img.shields.io/badge/insomnia-black?logo=insomnia) ![Postman](https://img.shields.io/badge/postman-black?logo=postman) ![NodeJs](https://img.shields.io/badge/nodejs-black?logo=nodedotjs) ![Git](https://img.shields.io/badge/git-black?logo=git)
-
-**UI e UX**
-
-![Figma](https://img.shields.io/badge/figma-black?logo=figma) ![Giphy](https://img.shields.io/badge/giphy-black?logo=giphy)
+![Android Studio](https://img.shields.io/badge/android%20studio-black?logo=androidstudio) ![X-code](https://img.shields.io/badge/android%20studio-black?logo=xcode) ![Insominia](https://img.shields.io/badge/insomnia-black?logo=insomnia) ![Postman](https://img.shields.io/badge/postman-black?logo=postman) ![NodeJs](https://img.shields.io/badge/nodejs-black?logo=nodedotjs) ![Git](https://img.shields.io/badge/git-black?logo=git) ![Visual Studio Code](https://img.shields.io/badge/play-station-black.svg?logo=data:images/vscode.svg)
 
 **DevOps**
 
 ![Jira](https://img.shields.io/badge/jira-black?logo=jira) ![Trello](https://img.shields.io/badge/trello-black?logo=trello) ![Docker](https://img.shields.io/badge/docker-black?logo=docker) ![SonarQube](https://img.shields.io/badge/sonarqube-black?logo=sonarqube)
+
+**UI e UX**
+
+![Figma](https://img.shields.io/badge/figma-black?logo=figma) ![Giphy](https://img.shields.io/badge/giphy-black?logo=giphy)
 
 **SGBD e Dados**
 
