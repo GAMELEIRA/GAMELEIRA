@@ -29,11 +29,12 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 
 **Principais Linguagens e Frameworks**
 
-<img src="https://img.shields.io/badge/html-black?logo=html5" alt="Badge HTML5"> <img src="https://img.shields.io/badge/css-black?logo=css3" alt="Badge CSS3"> <img src="https://img.shields.io/badge/javascript-black?logo=javascript" alt="Badge Javascript"> <img src="https://img.shields.io/badge/angular-black?logo=angular" alt="Badge Angular"> <img src="https://img.shields.io/badge/ionic-black?logo=ionic" alt="Badge Ionic">
+<img src="https://img.shields.io/badge/html-black?logo=html5" alt="Badge HTML5"> <img src="https://img.shields.io/badge/css-black?logo=css3" alt="Badge CSS3"> <img src="https://img.shields.io/badge/javascript-black?logo=javascript" alt="Badge Javascript"> <img src="https://img.shields.io/badge/angular-black?logo=angular" alt="Badge Angular"> <img src="https://img.shields.io/badge/ionic-black?logo=ionic" alt="Badge Ionic"> ![TypeScript](https://img.shields.io/badge/typescript-black?logo=typescript)
+
 
 **Ferramentas de Desenvolvimento**
 
-![Android Studio](https://img.shields.io/badge/android%20studio-black?logo=androidstudio) ![X-code](https://img.shields.io/badge/android%20studio-black?logo=xcode) ![Insominia](https://img.shields.io/badge/insomnia-black?logo=insomnia) ![Postman](https://img.shields.io/badge/postman-black?logo=postman) ![NodeJs](https://img.shields.io/badge/nodejs-black?logo=nodedotjs) ![TypeScript](https://img.shields.io/badge/typescript-black?logo=typescript)
+![Android Studio](https://img.shields.io/badge/android%20studio-black?logo=androidstudio) ![X-code](https://img.shields.io/badge/android%20studio-black?logo=xcode) ![Insominia](https://img.shields.io/badge/insomnia-black?logo=insomnia) ![Postman](https://img.shields.io/badge/postman-black?logo=postman) ![NodeJs](https://img.shields.io/badge/nodejs-black?logo=nodedotjs) 
 
 **UI e UX**
 
