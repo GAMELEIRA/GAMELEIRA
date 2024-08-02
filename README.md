@@ -1,5 +1,7 @@
 # Boas Vindas
 
+<img src="images/banner.png" alt="Banner Comercial com a frase: Vamos criar soluções, eficientes e modernas juntos!">
+
 Olá seja, bem vindo(a) ao meu perfil!
 
 <p>Você é o visitante número:</p>
