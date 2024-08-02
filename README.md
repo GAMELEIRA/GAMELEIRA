@@ -11,11 +11,12 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 * **Status Cívil**: Muito bem casado com [@CibeleGameleira](https://github.com/CibeleGameleira);
 * **Natural de**: Osasco, SP - Brasil;
 * **Morando em**: São Paulo, SP - Brasil;
-* **Estudando Sempre as Tecnologias**: <img src="https://img.shields.io/badge/html-black?logo=html5" alt="Badge HTML5"> <img src="https://img.shields.io/badge/css-black?logo=css3" alt="Badge CSS3"> <img src="https://img.shields.io/badge/javascript-black?logo=javascript" alt="Badge Javascript"> <img src="https://img.shields.io/badge/angular-black?logo=angular" alt="Badge Angular"> <img src="https://img.shields.io/badge/ionic-black?logo=ionic" alt="Badge Ionic">
+* **Estudando**: _Frontend_, _UI_, _UX_.
 * **Estudando Sempre os Pilares**: _Devops_, _POO_, Código Limpo, Testes Unitários, Testes Integrados, Arquitetura Hexagonal e _DDD_;
 * **Graduado em**: Análise e Desenvolvimento de Sistemas na [@Bandtec](https://github.com/BandTec);
 * **Passatempos**: Jogo Tênis de Mesa e atualmente sou Bob Construtor no _Minecraft_. Gosto de jogar _FIFA_, _Clash Royale_, _Smash Bros_ etc. Torço e assisto jogos do Corinthians mas isso não é mais um prazer;
 * **Trabalhando Atualmente**: Desenvolvedor de Software Mobile e Web na ***TOTVS*** - _Squad_ Entradas;
+
 
 # Sumário
 
@@ -23,6 +24,14 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 2. **[Estátisticas](#estátisticas)**
 3. **[Principais Projetos](#principais-projetos)**
 4. **[Minhas Redes Sociais](#minhas-redes-sociais)**
+
+# Minhas Habilidades
+
+**Principais Tecnologias e Linguagens**
+<img src="https://img.shields.io/badge/html-black?logo=html5" alt="Badge HTML5"> <img src="https://img.shields.io/badge/css-black?logo=css3" alt="Badge CSS3"> <img src="https://img.shields.io/badge/javascript-black?logo=javascript" alt="Badge Javascript"> <img src="https://img.shields.io/badge/angular-black?logo=angular" alt="Badge Angular"> <img src="https://img.shields.io/badge/ionic-black?logo=ionic" alt="Badge Ionic">
+
+**Ferramentas**
+[Android Studio](https://img.shields.io/badge/android%20studio-black?logo=androidstudio)
 
 # Principais Linguagens
 
