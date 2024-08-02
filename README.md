@@ -31,9 +31,21 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 
 <img src="https://img.shields.io/badge/html-black?logo=html5" alt="Badge HTML5"> <img src="https://img.shields.io/badge/css-black?logo=css3" alt="Badge CSS3"> <img src="https://img.shields.io/badge/javascript-black?logo=javascript" alt="Badge Javascript"> <img src="https://img.shields.io/badge/angular-black?logo=angular" alt="Badge Angular"> <img src="https://img.shields.io/badge/ionic-black?logo=ionic" alt="Badge Ionic">
 
-**Ferramentas**
+**Ferramentas de Desenvolvimento**
 
-![Android Studio](https://img.shields.io/badge/android%20studio-black?logo=androidstudio)
+![Android Studio](https://img.shields.io/badge/android%20studio-black?logo=androidstudio) ![X-code](https://img.shields.io/badge/android%20studio-black?logo=xcode) ![Insominia](https://img.shields.io/badge/insomnia-black?logo=insomnia) ![Postman](https://img.shields.io/badge/postman-black?logo=postman) 
+
+**UI e UX**
+![Figma](https://img.shields.io/badge/figma-black?logo=figma)
+
+**DevOps**
+![Jira](https://img.shields.io/badge/jira-black?logo=jira) ![Trello](https://img.shields.io/badge/trello-black?logo=trello)![Docker](https://img.shields.io/badge/docker-black?logo=docker) ![SonarQube](https://img.shields.io/badge/sonarqube-black?logo=sonarqube)
+
+**SGBD**
+![MySQL](https://img.shields.io/badge/msql-black?logo=mysql) ![Sqlite](https://img.shields.io/badge/sqlite-black?logo=sqlite)
+
+**S.O**
+![MacOs](https://img.shields.io/badge/macos-black?logo=macos) ![Ubuntu](https://img.shields.io/badge/ubuntu-black?logo=ubuntu)
 
 # Principais Linguagens
 
