@@ -59,4 +59,4 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 
 # Redes Sociais
 
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-gameleira-dos-santos-634b23161/](https://www.linkedin.com/in/gabriel-gameleira-dos-santos-634b23161/)
+[https://img.shields.io/badge/logo-linkedin-blue?logo=linkedin](https://www.linkedin.com/in/gabriel-gameleira-dos-santos-634b23161/)
