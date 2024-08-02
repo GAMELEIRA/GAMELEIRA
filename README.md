@@ -61,4 +61,4 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 
 [![Linkedin](https://img.shields.io/badge/linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/gabriel-gameleira-dos-santos-634b23161/)
 
-[![Instagram](https://img.shields.io/badge/instagram-black?logo=instagram)][https://www.instagram.com/gamisgamis27/]
+[![Instagram](https://img.shields.io/badge/instagram-black?logo=instagram)](https://www.instagram.com/gamisgamis27/)
