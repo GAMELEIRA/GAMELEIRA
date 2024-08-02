@@ -36,15 +36,19 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 ![Android Studio](https://img.shields.io/badge/android%20studio-black?logo=androidstudio) ![X-code](https://img.shields.io/badge/android%20studio-black?logo=xcode) ![Insominia](https://img.shields.io/badge/insomnia-black?logo=insomnia) ![Postman](https://img.shields.io/badge/postman-black?logo=postman) 
 
 **UI e UX**
+
 ![Figma](https://img.shields.io/badge/figma-black?logo=figma)
 
 **DevOps**
+
 ![Jira](https://img.shields.io/badge/jira-black?logo=jira) ![Trello](https://img.shields.io/badge/trello-black?logo=trello)![Docker](https://img.shields.io/badge/docker-black?logo=docker) ![SonarQube](https://img.shields.io/badge/sonarqube-black?logo=sonarqube)
 
 **SGBD**
+
 ![MySQL](https://img.shields.io/badge/msql-black?logo=mysql) ![Sqlite](https://img.shields.io/badge/sqlite-black?logo=sqlite)
 
 **S.O**
+
 ![MacOs](https://img.shields.io/badge/macos-black?logo=macos) ![Ubuntu](https://img.shields.io/badge/ubuntu-black?logo=ubuntu)
 
 # Principais Linguagens
