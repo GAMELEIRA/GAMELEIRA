@@ -100,10 +100,10 @@ A seguir você terá uma visão mais detalhada da porcentagem de cada linguagem 
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAMELEIRA&repo=portfolio&theme=default&show_icons=true" alt="Card do repositório Portifólio">
 </a>
 
-* **estudos-frontend**, **estudos-backend**, **estudos-linguagens-programacao** são repositórios com o objetivo de servir como centralizadores de todo conhecimento e estudos que faço para aprender qualquer coisa relacionada ao tema.
- 
 > [!TIP]
 > Fiz dessa forma para que seja mais fácil de eu usar esses repositórios como documentação de aprendizados e ser mais simples de mostrar meu esforço.
+
+**estudos-frontend**, **estudos-backend**, **estudos-linguagens-programacao** são repositórios com o objetivo de servir como centralizadores de todo conhecimento e estudos que faço para aprender qualquer coisa relacionada ao tema.
 
 * **portifolio** são repositórios com o objetivo de alocar uma landpage sobre a minha carreira, curiosidades etc. Ela é feita com HTML, CSS e JS sem o uso de frameworks como Angular ou React. 
 
