@@ -32,9 +32,13 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 
 # Minhas Habilidades
 
-**Principais Linguagens e Frameworks**
+<details>
+
+<summary>**Principais Linguagens e Frameworks**</summary>
 
 ![HTML](https://img.shields.io/badge/html-black?logo=html5) ![CSS](https://img.shields.io/badge/css-black?logo=css3) ![JavaScript](https://img.shields.io/badge/javascript-black?logo=javascript) ![TypeScript](https://img.shields.io/badge/typescript-black?logo=typescript) ![Angular](https://img.shields.io/badge/angular-black?logo=angular) ![Ionic](https://img.shields.io/badge/ionic-black?logo=ionic) 
+
+</details>
 
 **Ferramentas de Desenvolvimento**
 
