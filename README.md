@@ -43,7 +43,8 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 <a href="https://github.com/GAMELEIRA/estudos-backend" >
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAMELEIRA&repo=estudos-backend&theme=default&show_icons=true" />
 </a>
-    
+</div>
+<div align="center">
 <a href="https://github.com/GAMELEIRA/estudos-linguagens-programacao">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAMELEIRA&repo=estudos-linguagens-programacao&theme=default&show_icons=true" />
 </a>
