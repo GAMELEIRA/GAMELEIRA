@@ -65,16 +65,16 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 # Minhas Redes Sociais
 
 <div align="center">
-<a href="https://www.linkedin.com/in/gabriel-gameleira-dos-santos-634b23161/">
+<a href="https://www.linkedin.com/in/gabriel-gameleira-dos-santos-634b23161/" style="underline: none">
     <img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin" alt="Badge do Linkedin">
 </a>
-<a href="mailto:gameleira270499@gmail.com">
+<a href="mailto:gameleira270499@gmail.com" style="underline: none">
     <img src="https://img.shields.io/badge/gmail-white?logo=gmail" alt="Badge do Gmail">
 </a>
-<a href="https://www.instagram.com/gamisgamis27/">
+<a href="https://www.instagram.com/gamisgamis27/" style="underline: none">
     <img src="https://img.shields.io/badge/instagram-black?logo=instagram" alt="Badge do Instagram">
 </a>
-<a href="https://www.youtube.com/@gabrielgameleiradossantos6435">
+<a href="https://www.youtube.com/@gabrielgameleiradossantos6435" style="underline: none">
     <img src="https://img.shields.io/badge/youtube-red?logo=youtube" alt="Badge do Youtube">
 </a>
 </div>
