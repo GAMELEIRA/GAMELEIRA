@@ -7,7 +7,7 @@ Olá seja, bem vindo(a) ao meu perfil!
 <p>Você é o visitante número:</p>
 <img src="https://profile-counter.glitch.me/GAMELEIRA/count.svg">
 
-Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome então pode me chamar de **Gameleira**. Estou trabalhando com tecnologia desde de **2017** e com desenvolvimento de Software Mobile desde **2020**.
+Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome, então pode me chamar de **Gameleira**. Estou trabalhando com tecnologia desde **2017** e com desenvolvimento de Software Mobile desde **2020**.
 
 **Sobre Mim**
 
@@ -20,7 +20,6 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 * **Graduado em**: Análise e Desenvolvimento de Sistemas na [@Bandtec](https://github.com/BandTec);
 * **Passatempos**: Jogo Tênis de Mesa e atualmente sou Bob Construtor no _Minecraft_. Gosto de jogar _FIFA_, _Clash Royale_, _Smash Bros_ etc. Torço e assisto jogos do Corinthians mas isso não é mais um prazer;
 * **Trabalhando Atualmente**: Desenvolvedor de _Software_ _Mobile_ e _Web_ Pleno na ***TOTVS*** - _Squad_ Entradas;
-
 
 # Sumário
 
