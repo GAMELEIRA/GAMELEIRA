@@ -83,6 +83,21 @@ A seguir você terá uma visão mais detalhada da porcentagem de cada linguagem 
 > [!IMPORTANT]
 > Meu _Git Hub_ ficou abandonado por muito tempo... e excluí muitos repositórios que viraram lixo ao longo do tempo. Meu PDI é que eu consiga construir um portfólio sólido para os próximos meses.
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
 <div align="center">
 <a href="https://github.com/GAMELEIRA/estudos-frontend" >
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAMELEIRA&repo=estudos-frontend&theme=default&show_icons=true" />
