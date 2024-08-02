@@ -33,11 +33,11 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 
 **Ferramentas de Desenvolvimento**
 
-![Android Studio](https://img.shields.io/badge/android%20studio-black?logo=androidstudio) ![X-code](https://img.shields.io/badge/android%20studio-black?logo=xcode) ![Insominia](https://img.shields.io/badge/insomnia-black?logo=insomnia) ![Postman](https://img.shields.io/badge/postman-black?logo=postman) ![NodeJs](https://img.shields.io/badge/nodejs-black?logo=nodedotjs) 
+![Android Studio](https://img.shields.io/badge/android%20studio-black?logo=androidstudio) ![X-code](https://img.shields.io/badge/android%20studio-black?logo=xcode) ![Insominia](https://img.shields.io/badge/insomnia-black?logo=insomnia) ![Postman](https://img.shields.io/badge/postman-black?logo=postman) ![NodeJs](https://img.shields.io/badge/nodejs-black?logo=nodedotjs) ![Git](https://img.shields.io/badge/git-black?logo=git)
 
 **UI e UX**
 
-![Figma](https://img.shields.io/badge/figma-black?logo=figma)
+![Figma](https://img.shields.io/badge/figma-black?logo=figma) ![Giphy](https://img.shields.io/badge/giphy-black?logo=giphy)
 
 **DevOps**
 
@@ -49,7 +49,7 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 
 **S.O**
 
-![MacOs](https://img.shields.io/badge/macos-black?logo=macos) ![Ubuntu](https://img.shields.io/badge/ubuntu-black?logo=ubuntu)
+![MacOs](https://img.shields.io/badge/macos-black?logo=macos) ![Ubuntu](https://img.shields.io/badge/linux-black?logo=linux)
 
 # Principais Linguagens
 
