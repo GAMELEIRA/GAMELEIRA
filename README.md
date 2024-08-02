@@ -31,7 +31,7 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 <img src="https://img.shields.io/badge/html-black?logo=html5" alt="Badge HTML5"> <img src="https://img.shields.io/badge/css-black?logo=css3" alt="Badge CSS3"> <img src="https://img.shields.io/badge/javascript-black?logo=javascript" alt="Badge Javascript"> <img src="https://img.shields.io/badge/angular-black?logo=angular" alt="Badge Angular"> <img src="https://img.shields.io/badge/ionic-black?logo=ionic" alt="Badge Ionic">
 
 **Ferramentas**
-[![Android Studio](https://img.shields.io/badge/android%20studio-black?logo=androidstudio)]
+![Android Studio](https://img.shields.io/badge/android%20studio-black?logo=androidstudio)
 
 # Principais Linguagens
 
