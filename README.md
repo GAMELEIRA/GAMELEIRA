@@ -23,6 +23,7 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 2. **[Principais Projetos](#principais-projetos)**
 3. **[Principais Linguagens](#principais-linguagens)**
 4. **[Esforço Investido](#esforço-investido)**
+5. **[Redes Sociais](#redes-sociais)**
 
 # Estátisticas
 
@@ -57,3 +58,5 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 <img src="https://wakatime.com/share/@Gameleira/a12ccca0-dabc-4cdc-a796-7892a7d465d4.svg">
 
 # Redes Sociais
+
+[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-gameleira-dos-santos-634b23161/](https://www.linkedin.com/in/gabriel-gameleira-dos-santos-634b23161/)
