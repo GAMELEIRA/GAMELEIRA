@@ -2,8 +2,8 @@
 
 Olá seja, bem vindo(a) ao meu perfil!
 
-<p>
-<sup>Você é o</sup> <img src="https://profile-counter.glitch.me/GAMELEIRA/count.svg"> <sup>visitante!</sup></p>
+Você é o visitante número:
+<img src="https://profile-counter.glitch.me/GAMELEIRA/count.svg">
 
 Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome então pode me chamar de **Gameleira**. Estou trabalhando com tecnologia desde de **2019** e com desenvolvimento de Software Mobile desde **2020**.
 
