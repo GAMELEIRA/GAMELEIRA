@@ -59,6 +59,12 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 
 # Conhecimento Prático
 
+Como desenvolvedor _Frontend_ procuro ter foco em estudar as principais tecnologias e as mais modernas para poder criar soluções eficientes.
+
+> [!IMPORTANTE]
+> Meu Git Hub ficou abandonado por muito tempo... e excluí alguns repositórios que viraram lixo ao longo do tempo. 
+> Neste momento estou construindo um portfólio melhor. Ou seja, pode ser que aqui você não veja muita coisa.
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAMELEIRA&size_weight=0.5&count_weight=0.5&langs_count=20&locale=pt-br&custom_title=Principais%20Linguagens" alt="Gameleira GitHub Stats" width="50%">
