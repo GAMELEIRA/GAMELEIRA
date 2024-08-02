@@ -19,7 +19,7 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 * **Estudando Sempre os Pilares**: _Devops_, _POO_, Código Limpo, Testes Unitários, Testes Integrados, Arquitetura Hexagonal e _DDD_;
 * **Graduado em**: Análise e Desenvolvimento de Sistemas na [@Bandtec](https://github.com/BandTec);
 * **Passatempos**: Jogo Tênis de Mesa e atualmente sou Bob Construtor no _Minecraft_. Gosto de jogar _FIFA_, _Clash Royale_, _Smash Bros_ etc. Torço e assisto jogos do Corinthians mas isso não é mais um prazer;
-* **Trabalhando Atualmente**: Desenvolvedor de Software Mobile e Web Pleno na ***TOTVS*** - _Squad_ Entradas;
+* **Trabalhando Atualmente**: Desenvolvedor de _Software_ _Mobile_ e _Web_ Pleno na ***TOTVS*** - _Squad_ Entradas;
 
 
 # Sumário
@@ -32,7 +32,7 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 
 # Minhas Habilidades
 
-**Principais Linguagens e Frameworks**
+**Principais Linguagens e _Frameworks_**
 
 ![HTML](https://img.shields.io/badge/html-black?logo=html5) ![CSS](https://img.shields.io/badge/css-black?logo=css3) ![JavaScript](https://img.shields.io/badge/javascript-black?logo=javascript) ![TypeScript](https://img.shields.io/badge/typescript-black?logo=typescript) ![Angular](https://img.shields.io/badge/angular-black?logo=angular) ![Ionic](https://img.shields.io/badge/ionic-black?logo=ionic) 
 
@@ -44,15 +44,15 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 
 ![Jira](https://img.shields.io/badge/jira-black?logo=jira) ![Trello](https://img.shields.io/badge/trello-black?logo=trello) ![Docker](https://img.shields.io/badge/docker-black?logo=docker) ![SonarQube](https://img.shields.io/badge/sonarqube-black?logo=sonarqube)
 
-**UI e UX**
+**_UI_ e _UX_**
 
 ![Figma](https://img.shields.io/badge/figma-black?logo=figma) ![Giphy](https://img.shields.io/badge/giphy-black?logo=giphy)
 
-**SGBD e Dados**
+**_SGBD_ e Dados**
 
 ![MySQL](https://img.shields.io/badge/msql-black?logo=mysql) ![Sqlite](https://img.shields.io/badge/sqlite-black?logo=sqlite) ![MSSQL](https://tinyurl.com/2syy8vt8)
 
-**S.O**
+**_S.O_**
 
 ![MacOs](https://img.shields.io/badge/macos-black?logo=macos) ![Ubuntu](https://img.shields.io/badge/linux-black?logo=linux) ![Windows](https://img.shields.io/badge/windows-black?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iLTAuNSAwIDI1NyAyNTciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQiPjxwYXRoIGQ9Ik0wIDM2LjM1N0wxMDQuNjIgMjIuMTFsLjA0NSAxMDAuOTE0LTEwNC41Ny41OTVMMCAzNi4zNTh6bTEwNC41NyA5OC4yOTNsLjA4IDEwMS4wMDJMLjA4MSAyMjEuMjc1bC0uMDA2LTg3LjMwMiAxMDQuNDk0LjY3N3ptMTIuNjgyLTExNC40MDVMMjU1Ljk2OCAwdjEyMS43NGwtMTM4LjcxNiAxLjFWMjAuMjQ2ek0yNTYgMTM1LjZsLS4wMzMgMTIxLjE5MS0xMzguNzE2LTE5LjU3OC0uMTk0LTEwMS44NEwyNTYgMTM1LjZ6IiBmaWxsPSIjMDBBREVGIi8+PC9zdmc+)
 
@@ -61,7 +61,7 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAMELEIRA&size_weight=0.5&count_weight=0.5&langs_count=20&locale=pt-br&custom_title=Principais%20Linguagens" alt="Gameleira GitHub Stats" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAMELEIRA&size_weight=0.5&count_weight=0.5&langs_count=20&locale=pt-br&custom_title=Conhecimento%20Prático" alt="Gameleira GitHub Stats" width="50%">
 
 </div>
 
