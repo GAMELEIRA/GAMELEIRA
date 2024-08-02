@@ -61,7 +61,7 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 
 Como desenvolvedor _Frontend_ procuro ter foco em estudar as principais tecnologias e as mais modernas para poder criar soluções eficientes.
 
-> [!IMPORTANTE]
+> [!IMPORTANT]
 > Meu Git Hub ficou abandonado por muito tempo... e excluí alguns repositórios que viraram lixo ao longo do tempo. 
 > Neste momento estou construindo um portfólio melhor. Ou seja, pode ser que aqui você não veja muita coisa.
 
