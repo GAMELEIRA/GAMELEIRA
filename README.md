@@ -2,7 +2,7 @@
 
 Olá seja, bem vindo(a) ao meu perfil!
 
-Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome então pode me chamar de **Gameleira**. Estou trabalhando com tecnologia desde de 2019 e com desenvolvimento de Software Mobile desde 2020.
+Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome então pode me chamar de **Gameleira**. Estou trabalhando com tecnologia desde de **2019** e com desenvolvimento de Software Mobile desde **2020**.
 
 * **Idade**: 25;
 * **Status Cívil**: Muito bem casado com [@CibeleGameleira](https://github.com/CibeleGameleira);
