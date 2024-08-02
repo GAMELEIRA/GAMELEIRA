@@ -20,10 +20,11 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 
 # Sumário
 
-1.  **[Principais Linguagens](#principais-linguagens)**
-2. **[Estátisticas](#estátisticas)**
-3. **[Principais Projetos](#principais-projetos)**
-4. **[Minhas Redes Sociais](#minhas-redes-sociais)**
+1. **[Minhas Habilidades](#minhas-habilidades)**
+2. **[Principais Linguagens](#principais-linguagens)**
+3. **[Estátisticas](#estátisticas)**
+4. **[Principais Projetos](#principais-projetos)**
+5. **[Minhas Redes Sociais](#minhas-redes-sociais)**
 
 # Minhas Habilidades
 
