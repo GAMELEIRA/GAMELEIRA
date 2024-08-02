@@ -34,7 +34,7 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 
 **Ferramentas de Desenvolvimento**
 
-![Android Studio](https://img.shields.io/badge/android%20studio-black?logo=androidstudio) ![X-code](https://img.shields.io/badge/android%20studio-black?logo=xcode) ![Insominia](https://img.shields.io/badge/insomnia-black?logo=insomnia) ![Postman](https://img.shields.io/badge/postman-black?logo=postman) ![NodeJs](https://img.shields.io/badge/nodejs-black?logo=nodedotjs) ![Git](https://img.shields.io/badge/git-black?logo=git) ![Visual Studio Code](https://img.shields.io/badge/play-station-black.svg?logo=data:images/vscode.svg)
+![Android Studio](https://img.shields.io/badge/android%20studio-black?logo=androidstudio) ![X-code](https://img.shields.io/badge/android%20studio-black?logo=xcode) ![Insominia](https://img.shields.io/badge/insomnia-black?logo=insomnia) ![Postman](https://img.shields.io/badge/postman-black?logo=postman) ![NodeJs](https://img.shields.io/badge/nodejs-black?logo=nodedotjs) ![Git](https://img.shields.io/badge/git-black?logo=git) ![Visual Studio Code](https://img.shields.io/badge/visual-studio-code-black.svg?logo=data:https://github.com/GAMELEIRA/GAMELEIRA/blob/main/images/vscode.svg)
 
 **DevOps**
 
