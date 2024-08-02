@@ -22,7 +22,7 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome e
 1. **[Estátisticas](#estátisticas)**
 2. **[Principais Projetos](#principais-projetos)**
 3. **[Principais Linguagens](#principais-linguagens)**
-4. **[Minhas Redes Sociais](#redes-sociais)**
+4. **[Minhas Redes Sociais](#minhas-redes-sociais)**
 
 # Estátisticas
 
