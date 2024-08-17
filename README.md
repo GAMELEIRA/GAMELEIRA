@@ -83,7 +83,7 @@ A seguir você terá uma visão mais detalhada da porcentagem de cada linguagem 
 > Meu _Git Hub_ ficou abandonado por muito tempo... e excluí muitos repositórios que viraram lixo ao longo do tempo. Meu PDI é que eu consiga construir um portfólio sólido para os próximos meses.
 
 > [!IMPORTANT]
-> **estudos-frontend**, **estudos-backend**, **estudos-linguagens-programacao** são repositórios com o objetivo de servir como centralizadores de todo conhecimento e estudos que faço para aprender qualquer coisa relacionada ao tema. Fiz dessa forma para que seja mais fácil de eu usar esses repositórios como documentação de aprendizados e ser mais simples de mostrar meu esforço.
+> **estudos-frontend**, **estudos-backend**, **estudos-linguagens-programacao**, **fundamentos-engenharia-software** são repositórios com o objetivo de servir como centralizadores de todo conhecimento e estudos que faço para aprender qualquer coisa relacionada ao tema. Fiz dessa forma para que seja mais fácil de eu usar esses repositórios como documentação de aprendizados e ser mais simples de mostrar meu esforço.
 
 > [!IMPORTANT]
 > **portifolio** é um repositório com o objetivo de alocar uma landpage sobre a minha carreira, curiosidades etc. Ela é feita com _HTML_, _CSS_ e _JS_ sem o uso de frameworks como _Angular_ ou _React_, ou de alguma biblioteca ou frame de UI como _PO-UI_, _Material Design_ ou _Bootstrap_.  
@@ -99,6 +99,10 @@ A seguir você terá uma visão mais detalhada da porcentagem de cada linguagem 
 
 <a href="https://github.com/GAMELEIRA/estudos-linguagens-programacao">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAMELEIRA&repo=estudos-linguagens-programacao&theme=default&show_icons=true" />
+</a>
+
+<a href="https://github.com/GAMELEIRA/fundamentos-engenharia-software">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAMELEIRA&repo=fundamentos-engenharia-software&theme=default&show_icons=true" alt="Card do repositório Fundamentos de Engenharia de Software">
 </a>
 
 <a href="https://github.com/GAMELEIRA/portfolio">
