@@ -7,7 +7,7 @@ Olá seja, bem vindo(a) ao meu perfil!
 <p>Você é o visitante número:</p>
 <img src="https://profile-counter.glitch.me/GAMELEIRA/count.svg">
 
-Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome, então pode me chamar de **Gameleira**. Estou trabalhando com tecnologia desde **2017** e com desenvolvimento de Software Mobile desde **2020**.
+Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome, então pode me chamar de **Gameleira**. Estou trabalhando com tecnologia desde **2017** e com desenvolvimento de Software Mobile e Web desde **2020**.
 
 **Sobre Mim**
 
@@ -15,21 +15,21 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome, 
 * **Status Cívil**: Muito bem casado com [@CibeleGameleira](https://github.com/CibeleGameleira);
 * **Natural de**: Osasco, SP - Brasil;
 * **Morando em**: São Paulo, SP - Brasil;
-* **Estudando**: _Frontend_, _UI_, _UX_.
+* **Expertise em**: _Frontend_, _UI_, _UX_, _Mobile_, _Web_.
 * **Estudando Sempre os Pilares**: _Devops_, _POO_, Código Limpo, Testes Unitários, Testes Integrados, Arquitetura Hexagonal e _DDD_;
 * **Graduado em**: Análise e Desenvolvimento de Sistemas na [@Bandtec](https://github.com/BandTec);
-* **Passatempos**: Jogo Tênis de Mesa e atualmente sou Bob Construtor no _Minecraft_. Gosto de jogar _FIFA_, _Clash Royale_, _Smash Bros_ etc. Torço e assisto jogos do Corinthians mas isso não é mais um prazer;
-* **Trabalhando Atualmente**: Desenvolvedor de _Software_ _Mobile_ e _Web_ Pleno na ***TOTVS*** - _Squad_ Entradas;
+* **Passatempos**: Jogo Tênis de Mesa e atualmente sou Bob Construtor no _Minecraft_. Gosto de jogar _FIFA_, _Clash Royale_, _Smash Bros_ etc. Torço pelo [Timão](https://www.corinthians.com.br/);
+* **Trabalhando Atualmente como**: Desenvolvedor de _Software_ _Mobile_ e _Web_ Pleno na ***TOTVS*** - _Squad_ Entradas;
 
 # Sumário
 
-1. **[Minhas Habilidades](#minhas-habilidades)**
+1. **[Técnologias](#técnologias)**
 2. **[Conhecimento Prático](#conhecimento-prático)**
 3. **[Estátisticas](#estátisticas)**
 4. **[Principais Projetos](#principais-projetos)**
 5. **[Minhas Redes Sociais e Contatos](#minhas-redes-sociais-e-contatos)**
 
-# Minhas Habilidades
+# Técnologias
 
 **Principais Linguagens e _Frameworks_**
 
@@ -74,7 +74,7 @@ A seguir você terá uma visão mais detalhada da porcentagem de cada linguagem 
   <img src="https://github-readme-stats.vercel.app/api?username=GAMELEIRA&show_icons=true&theme=default&custom_title=Minhas%20Contribuições&locale=pt-br" alt="Gameleira GitHub Stats" width="70%">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gameleira&custom_title=Tempo%20Investido%20por%20Linguagem&locale=pt-br" alt="Gameleira WakaTime Stats" width="70%">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gameleira&custom_title=Tempo%20Investido%20por%20Linguagem%20desde%202024&locale=pt-br" alt="Gameleira WakaTime Stats" width="70%">
 </div>
 
 # Principais Projetos
