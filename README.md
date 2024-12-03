@@ -19,7 +19,7 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome, 
 * **Estudando Sempre os Pilares**: _Devops_, _POO_, Código Limpo, Testes Unitários, Testes Integrados, Arquitetura Hexagonal e _DDD_;
 * **Graduado em**: Análise e Desenvolvimento de Sistemas na [@Bandtec](https://github.com/BandTec);
 * **Passatempos**: Jogo Tênis de Mesa e atualmente sou Bob Construtor no _Minecraft_. Gosto de jogar _FIFA_, _Clash Royale_, _Smash Bros_ etc. Torço pelo [Timão](https://www.corinthians.com.br/);
-* **Trabalhando Atualmente como**: Desenvolvedor de _Software_ _Mobile_ e _Web_ Pleno na ***TOTVS*** - _Squad_ Entradas;
+* **Trabalhando Atualmente como**: Desenvolvedor de _Software_ _Mobile_ e _Web_ Pleno;
 
 # Sumário
 
