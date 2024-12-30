@@ -97,14 +97,6 @@ A seguir você terá uma visão mais detalhada da porcentagem de cada linguagem 
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAMELEIRA&repo=estudos-backend&theme=default&show_icons=true" />
 </a>
 
-<a href="https://github.com/GAMELEIRA/estudos-linguagens-programacao">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAMELEIRA&repo=estudos-linguagens-programacao&theme=default&show_icons=true" />
-</a>
-
-<a href="https://github.com/GAMELEIRA/fundamentos-engenharia-software">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAMELEIRA&repo=fundamentos-engenharia-software&theme=default&show_icons=true" alt="Card do repositório Fundamentos de Engenharia de Software">
-</a>
-
 <a href="https://github.com/GAMELEIRA/portfolio">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAMELEIRA&repo=portfolio&theme=default&show_icons=true" alt="Card do repositório Portifólio">
 </a>
