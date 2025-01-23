@@ -38,7 +38,7 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome, 
 **_Frameworks_**
 
 ![Angular](https://img.shields.io/badge/angular-black?logo=angular) ![Ionic](https://img.shields.io/badge/ionic-black?logo=ionic) 
-![Spring Boot](https://img.shields.io/badge/spring%20boot-black?logo=springboot)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-black?logo=springboot) ![Jasmine](https://img.shields.io/badge/jasmine-black?logo=jasmine) ![Cypress](https://img.shields.io/badge/cypress-black?logo=cypress) ![Jest](https://img.shields.io/badge/jest-black?logo=jest)
 
 **Ferramentas de Desenvolvimento**
 
@@ -79,7 +79,7 @@ A seguir você terá uma visão mais detalhada da porcentagem de cada linguagem 
   <img src="https://github-readme-stats.vercel.app/api?username=GAMELEIRA&show_icons=true&theme=default&custom_title=Minhas%20Contribuições&locale=pt-br" alt="Gameleira GitHub Stats" width="70%">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gameleira&custom_title=Tempo%20Investido%20por%20Linguagem%20desde%202024&locale=pt-br" alt="Gameleira WakaTime Stats" width="70%">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gameleira&custom_title=Contagem desde Junho de 202024&locale=pt-br" alt="Gameleira WakaTime Stats" width="70%">
 </div>
 
 # Principais Projetos
