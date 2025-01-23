@@ -79,8 +79,7 @@ A seguir você terá uma visão mais detalhada da porcentagem de cada linguagem 
   <img src="https://github-readme-stats.vercel.app/api?username=GAMELEIRA&show_icons=true&theme=default&custom_title=Minhas%20Contribuições&locale=pt-br" alt="Gameleira GitHub Stats" width="70%">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gameleira&custom_title=Contagem%20desde%20Junho%20de%202024&alt=Gameleira%20WakaTime%20Stats&width=70%25&locale=pt-br
->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gameleira&custom_title=Contagem%20desde%20Junho%20de%202024&alt=Gameleira%20WakaTime%20Stats&width=70%25&locale=pt-br">
 </div>
 
 # Principais Projetos
