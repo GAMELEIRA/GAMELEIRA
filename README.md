@@ -85,7 +85,7 @@ A seguir você terá uma visão mais detalhada da porcentagem de cada linguagem 
 # Principais Projetos
 
 > [!IMPORTANT]
-> Meu _Git Hub_ ficou abandonado por muito tempo... e excluí muitos repositórios que viraram lixo ao longo do tempo. Meu PDI é que eu consiga construir um portfólio sólido para os próximos meses.
+> Meu _Git Hub_ ficou abandonado por muito tempo... excluí muitos repositórios que viraram lixo ao longo do tempo. Meu PDI é para que eu consiga construir um portfólio sólido para os próximos anos.
 
 > [!IMPORTANT]
 > **studies-frontend**, **studies-backend**, **studies-database**, **studies-fundamentals-software-engineer** são repositórios com o objetivo de servir como centralizadores de todo conhecimento e estudos que faço para aprender qualquer coisa relacionada ao tema. Fiz dessa forma para que seja mais fácil de eu usar esses repositórios como documentação de aprendizados e ser mais simples de mostrar meu esforço.
