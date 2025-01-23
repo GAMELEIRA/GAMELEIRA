@@ -79,7 +79,8 @@ A seguir você terá uma visão mais detalhada da porcentagem de cada linguagem 
   <img src="https://github-readme-stats.vercel.app/api?username=GAMELEIRA&show_icons=true&theme=default&custom_title=Minhas%20Contribuições&locale=pt-br" alt="Gameleira GitHub Stats" width="70%">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gameleira&custom_title=Contagem desde Junho de 202024&locale=pt-br" alt="Gameleira WakaTime Stats" width="70%">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gameleira&custom_title=Contagem%20desde%20Junho%20de%202024&alt=Gameleira%20WakaTime%20Stats&width=70%25&locale=pt-br
+>
 </div>
 
 # Principais Projetos
@@ -88,22 +89,30 @@ A seguir você terá uma visão mais detalhada da porcentagem de cada linguagem 
 > Meu _Git Hub_ ficou abandonado por muito tempo... e excluí muitos repositórios que viraram lixo ao longo do tempo. Meu PDI é que eu consiga construir um portfólio sólido para os próximos meses.
 
 > [!IMPORTANT]
-> **estudos-frontend**, **estudos-backend**, **estudos-linguagens-programacao**, **fundamentos-engenharia-software** são repositórios com o objetivo de servir como centralizadores de todo conhecimento e estudos que faço para aprender qualquer coisa relacionada ao tema. Fiz dessa forma para que seja mais fácil de eu usar esses repositórios como documentação de aprendizados e ser mais simples de mostrar meu esforço.
+> **studies-frontend**, **studies-backend**, **studies-database**, **studies-fundamentals-software-engineer** são repositórios com o objetivo de servir como centralizadores de todo conhecimento e estudos que faço para aprender qualquer coisa relacionada ao tema. Fiz dessa forma para que seja mais fácil de eu usar esses repositórios como documentação de aprendizados e ser mais simples de mostrar meu esforço.
 
 > [!IMPORTANT]
-> **portifolio** é um repositório com o objetivo de alocar uma landpage sobre a minha carreira, curiosidades etc. Ela é feita com _HTML_, _CSS_ e _JS_ sem o uso de frameworks como _Angular_ ou _React_, ou de alguma biblioteca ou frame de UI como _PO-UI_, _Material Design_ ou _Bootstrap_.  
+> **portfolio** é um repositório com o objetivo de alocar uma landpage sobre a minha carreira, curiosidades etc. Ela é feita com _HTML_, _CSS_ e _JS_ sem o uso de frameworks como _Angular_ ou _React_, ou de alguma biblioteca ou frame de UI como _PO-UI_, _Material Design_ ou _Bootstrap_.  
 
 <div align="center">
-<a href="https://github.com/GAMELEIRA/estudos-frontend" >
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAMELEIRA&repo=estudos-frontend&theme=default&show_icons=true" />
+<a href="https://github.com/GAMELEIRA/studies-backend" >
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAMELEIRA&repo=studies-backend&theme=default&show_icons=true" />
 </a>
 
-<a href="https://github.com/GAMELEIRA/estudos-backend" >
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAMELEIRA&repo=estudos-backend&theme=default&show_icons=true" />
+<a href="https://github.com/GAMELEIRA/studies-database" >
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAMELEIRA&repo=studies-database&theme=default&show_icons=true" />
+</a>
+
+<a href="https://github.com/GAMELEIRA/studies-frontend" >
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAMELEIRA&repo=studies-frontend&theme=default&show_icons=true" />
+</a>
+
+<a href="https://github.com/GAMELEIRA/studies-fundamentals-software-engineer" >
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAMELEIRA&repo=studies-fundamentals-software-engineer&theme=default&show_icons=true" />
 </a>
 
 <a href="https://github.com/GAMELEIRA/portfolio">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAMELEIRA&repo=portfolio&theme=default&show_icons=true" alt="Card do repositório Portifólio">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAMELEIRA&repo=portfolio&theme=default&show_icons=true">
 </a>
 
 </div>
