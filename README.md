@@ -7,7 +7,7 @@ Olá seja, bem vindo(a) ao meu perfil!
 <p>Você é o visitante número:</p>
 <img src="https://profile-counter.glitch.me/GAMELEIRA/count.svg">
 
-Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome, então pode me chamar de **Gameleira**. Estou trabalhando com tecnologia desde **2017** e com desenvolvimento de Software Mobile e Web desde **2020**.
+Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome, então pode me chamar de **Gameleira**. Estou trabalhando com tecnologia desde **2017** e com desenvolvimento de Software desde **2020**.
 
 **Sobre Mim**
 
@@ -15,25 +15,29 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome, 
 * **Status Cívil**: Muito bem casado com [@CibeleGameleira](https://github.com/CibeleGameleira);
 * **Natural de**: Osasco, SP - Brasil;
 * **Morando em**: São Paulo, SP - Brasil;
-* **Expertise em**: _Frontend_, _UI_, _UX_, _Mobile_, _Web_.
+* **Expertise em**: Desenvolvimento Frontend.
 * **Estudando Sempre os Pilares**: _Devops_, _POO_, Código Limpo, Testes Unitários, Testes Integrados, Arquitetura Hexagonal e _DDD_;
 * **Graduado em**: Análise e Desenvolvimento de Sistemas na [@Bandtec](https://github.com/BandTec);
 * **Passatempos**: Jogo Tênis de Mesa e atualmente sou Bob Construtor no _Minecraft_. Gosto de jogar _FIFA_, _Clash Royale_, _Smash Bros_ etc. Torço pelo [Timão](https://www.corinthians.com.br/);
-* **Trabalhando Atualmente como**: Desenvolvedor de _Software_ _Mobile_ e _Web_ Pleno;
+* **Trabalhando Atualmente como**: Desenvolvedor de _Software_ _Fullstack_;
 
 # Sumário
 
-1. **[Técnologias](#técnologias)**
+1. **[Tecnologias](#tecnologias)**
 2. **[Conhecimento Prático](#conhecimento-prático)**
 3. **[Estátisticas](#estátisticas)**
 4. **[Principais Projetos](#principais-projetos)**
 5. **[Minhas Redes Sociais e Contatos](#minhas-redes-sociais-e-contatos)**
 
-# Técnologias
+# Tecnologias
 
-**Principais Linguagens e _Frameworks_**
+**Linguagens**
 
-![HTML](https://img.shields.io/badge/html-black?logo=html5) ![CSS](https://img.shields.io/badge/css-black?logo=css3) ![JavaScript](https://img.shields.io/badge/javascript-black?logo=javascript) ![TypeScript](https://img.shields.io/badge/typescript-black?logo=typescript) ![Angular](https://img.shields.io/badge/angular-black?logo=angular) ![Ionic](https://img.shields.io/badge/ionic-black?logo=ionic) 
+![HTML](https://img.shields.io/badge/html-black?logo=html5) ![CSS](https://img.shields.io/badge/css-black?logo=css3) ![JavaScript](https://img.shields.io/badge/javascript-black?logo=javascript) ![TypeScript](https://img.shields.io/badge/typescript-black?logo=typescript) ![Java](https://img.shields.io/badge/java-black?logo=openjdk)
+
+**_Frameworks_**
+![Angular](https://img.shields.io/badge/angular-black?logo=angular) ![Ionic](https://img.shields.io/badge/ionic-black?logo=ionic) 
+![Spring Boot](https://img.shields.io/badge/spring%20boot-black?logo=springboot)
 
 **Ferramentas de Desenvolvimento**
 
