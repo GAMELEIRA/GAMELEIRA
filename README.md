@@ -36,6 +36,7 @@ Me chamo **Gabriel Gameleira dos Santos**, geralmente me chamam pelo sobrenome, 
 ![HTML](https://img.shields.io/badge/html-black?logo=html5) ![CSS](https://img.shields.io/badge/css-black?logo=css3) ![JavaScript](https://img.shields.io/badge/javascript-black?logo=javascript) ![TypeScript](https://img.shields.io/badge/typescript-black?logo=typescript) ![Java](https://img.shields.io/badge/java-black?logo=openjdk)
 
 **_Frameworks_**
+
 ![Angular](https://img.shields.io/badge/angular-black?logo=angular) ![Ionic](https://img.shields.io/badge/ionic-black?logo=ionic) 
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-black?logo=springboot)
 
