@@ -106,8 +106,8 @@ A seguir você terá uma visão mais detalhada da porcentagem de cada linguagem 
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAMELEIRA&repo=studies-frontend&theme=default&show_icons=true" />
 </a>
 
-<a href="https://github.com/GAMELEIRA/studies-fundamentals-software-engineer" >
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAMELEIRA&repo=studies-fundamentals-software-engineer&theme=default&show_icons=true" />
+<a href="https://github.com/GAMELEIRA/studies-software-engineer" >
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAMELEIRA&repo=studies-software-engineer&theme=default&show_icons=true" />
 </a>
 
 <a href="https://github.com/GAMELEIRA/portfolio">
